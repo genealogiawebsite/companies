@@ -1,34 +1,34 @@
 {
-    "name": "laravel-enso/companies",
+    "name": "genealogiawebsite/companies",
     "description": "Person management dependency for Laravel Enso",
     "keywords": [
         "laravel",
-        "laravel-enso",
+        "genealogiawebsite",
         "companies",
         "company-management"
     ],
-    "homepage": "https://github.com/laravel-enso/companies",
+    "homepage": "https://github.com/genealogiawebsite/companies",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
-        "laravel-enso/core": "^6.0",
-        "laravel-enso/addresses": "^4.0",
-        "laravel-enso/data-import": "^5.0",
-        "laravel-enso/enums": "^2.0",
-        "laravel-enso/dynamic-methods": "^2.0",
-        "laravel-enso/forms": "^4.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/migrator": "^2.0",
-        "laravel-enso/people": "^3.0",
-        "laravel-enso/rememberable": "^3.0",
-        "laravel-enso/track-who": "^2.0",
-        "laravel-enso/tables": "^4.0"
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/addresses": "^4.0",
+        "genealogiawebsite/data-import": "^5.0",
+        "genealogiawebsite/enums": "^2.0",
+        "genealogiawebsite/dynamic-methods": "^2.0",
+        "genealogiawebsite/forms": "^4.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/people": "^3.0",
+        "genealogiawebsite/rememberable": "^3.0",
+        "genealogiawebsite/track-who": "^2.0",
+        "genealogiawebsite/tables": "^4.0"
     },
     "autoload": {
         "psr-4": {
